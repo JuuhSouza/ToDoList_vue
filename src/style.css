@@ -1,0 +1,24 @@
+:root {
+  --background-color-body: #FFA213;
+  --border-bottom: #5CB2FF;
+  --title-color: #0C355C;
+  --color-ondas: #5CB2FF;
+  --color-contorno: #000000;
+  --color-icon: #ffffff;
+  --background-icon: #5CB2FF;
+  --color-icon-hover: #ffffff;
+  --background-icon-hover: #5E92BF;
+  --color-font: #ffffff;
+  --background-box-list: #5CB2FF;
+  --color-button-options: #ffffff;
+  --background-button-edit: #5CB2FF;
+  --background-button-delet: #BF3F3F;
+  --background-button-save: #5CB2FF;
+  --background-button-cancel: #BF3F3F;
+  --color-list:#000000;
+
+}
+
+body {
+  background-color: var(--background-color-body);
+}
